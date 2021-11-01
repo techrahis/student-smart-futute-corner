@@ -1,6 +1,6 @@
 # STUDENT SMART FUTURE CORNER (SSFC)
 
-A small step towards your bright future.
+### A small step towards your bright future.
 
 ## Description
 
@@ -12,19 +12,19 @@ They bring glory to us. So let’s give them a
 smart and better future.
 
 
-Problems we are solving --
+#### Problems we are solving
 
-1. Student transport.
+* Student transport.
 
-2. Organized – no need of personal communication.
+* Organized – no need of personal communication.
 
-3. Recorded video lectures and live problems discussion.
+* Recorded video lectures and live problems discussion.
 
-Future plan --
+#### Future plan
 
-1. College
+* College
 
-2. Coaching institute
+* Coaching institute
 
 
 ## Getting Started
@@ -48,32 +48,31 @@ STUDENT SMART FUTURE CORNER
 
 ## Help
 
-Any advise for common problems or issues.
+### Any advise for common problems or issues
 ```
-command to run if program contains helper info
+STUDENT SMART FUTURE CORNER - Discussion Forum
 ```
 
 ## Authors
 
-Contributors names and contact info
+### Contributors names and contact info
 
-Rajarshi Samaddar [@ignorecrowd](https://ignorecrowd.co.in/)
-
-Joyitree Mondal [@joyitree](https://github.com/joyitree)
+* Rajarshi Samaddar [@ignorecrowd](https://ignorecrowd.co.in/)
+* Joyitree Mondal [@joyitree](https://github.com/joyitree)
 
 ## Non-released Versions
 
 * 0.2 (Alpha)
     * Various confusion fixing.
-    * See [commit change]()
+    * See [commit change].
 * 0.1 (Alpha)
-    * Initial Planning
+    * Initial Planning.
 
 ## License
 
-This project is licensed under the [STUDENT SMART FUTURE CORNER (SSFC)] License - see the LICENSE.md file for details
+This project is licensed under the [STUDENT SMART FUTURE CORNER (SSFC)] License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 
-Inspiration, consultant, business, etc.
+### Motivation, consultant, business, etc.
 * [Somaditya Roy](https://www.linkedin.com/in/rsomaditya/)
