@@ -5,9 +5,9 @@
 ## Description
 
 
-Our moto is to make Education available for all.
+Our motto is to make Education available for all.
 
-Student is the future of our country. 
+The student is the future of our country. 
 They bring glory to us. So let’s give them a 
 smart and better future.
 
@@ -16,11 +16,11 @@ smart and better future.
 
 * Student transport.
 
-* Organized – no need of personal communication.
+* Organized – no need for personal communication.
 
-* Recorded video lectures and live problems discussion.
+* Recorded video lectures and live problems discussions.
 
-#### Future plan
+#### Future Plan
 
 * College
 
@@ -48,7 +48,7 @@ STUDENT SMART FUTURE CORNER
 
 ## Help
 
-### Any advise for common problems or issues
+### Any advice for common problems or issues
 ```
 STUDENT SMART FUTURE CORNER - Discussion Forum
 ```
@@ -72,7 +72,7 @@ STUDENT SMART FUTURE CORNER - Discussion Forum
 
 This project is licensed under the [STUDENT SMART FUTURE CORNER (SSFC)] License - see the LICENSE.md file for details.
 
-## Acknowledgments
+## Acknowledgements
 
 ### Motivation, consultant, business, etc.
 * [Somaditya Roy](https://www.linkedin.com/in/rsomaditya/)
